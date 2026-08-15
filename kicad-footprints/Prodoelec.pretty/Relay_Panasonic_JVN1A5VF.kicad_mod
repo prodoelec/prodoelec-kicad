@@ -1,0 +1,283 @@
+(footprint "Relay_Panasonic_JVN1A5VF"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "JVN1A-5V-F-1")
+	(tags "Relay or Contactor")
+	(property "Reference" "K**"
+		(at 8.89 -6.44 0)
+		(layer "F.SilkS")
+		(uuid "3f0f4b9b-e500-42d9-849d-06058ce97948")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "Relay_Panasonic_JVN1A5VF"
+		(at 8.89 -6.44 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f3ee6be4-3887-4f17-bb1c-dd177dd2c11e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7de3645-673d-4158-a3d1-ad8a2c7e23c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae263a48-0518-4b18-8c38-b299471e785b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.11 -14.35)
+		(end -2.11 1.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e36a70d4-d261-4c14-8d36-6c98d2f3c2f5")
+	)
+	(fp_line
+		(start -2.11 1.65)
+		(end 19.89 1.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "918b9b69-0b4e-448e-bb7b-99f805cc0983")
+	)
+	(fp_line
+		(start 0 2.3)
+		(end 0 2.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "258d8996-df65-4766-8ebf-b41b8da56cd8")
+	)
+	(fp_line
+		(start 0 2.4)
+		(end 0 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1b1e27a4-6bd9-4eaf-ab6f-1f622e11f73c")
+	)
+	(fp_line
+		(start 7.89 -14.35)
+		(end 2.09 -14.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "67d70f36-7181-45b1-ad2a-f2dd13031a0f")
+	)
+	(fp_line
+		(start 19.89 -14.35)
+		(end 12.29 -14.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3aeb651c-c44a-4fc5-9edd-8c6c575dcd42")
+	)
+	(fp_line
+		(start 19.89 1.65)
+		(end 19.89 -14.35)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3606b41-c8df-40d4-8c90-2a05b22320ef")
+	)
+	(fp_arc
+		(start 0 2.3)
+		(mid 0.05 2.35)
+		(end 0 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e23749e7-98e9-4acf-a1a3-23aafe2a2d30")
+	)
+	(fp_arc
+		(start 0 2.4)
+		(mid -0.05 2.35)
+		(end 0 2.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3b162cb9-dd00-4f88-a8c0-84d34dfe6b38")
+	)
+	(fp_line
+		(start -3.11 -15.53)
+		(end -3.11 2.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "34eea9b4-184f-4fb7-83a8-78ea15d61436")
+	)
+	(fp_line
+		(start -3.11 2.65)
+		(end 20.89 2.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cb8c5dbc-2b75-4242-a76a-930618adb63b")
+	)
+	(fp_line
+		(start 20.89 -15.53)
+		(end -3.11 -15.53)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "916c6bfb-2ff9-424e-b9e8-f537d13fcdc1")
+	)
+	(fp_line
+		(start 20.89 2.65)
+		(end 20.89 -15.53)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6a2ff87c-68de-4b23-abb0-b334ff4bfc3b")
+	)
+	(fp_line
+		(start -2.11 -14.35)
+		(end 19.89 -14.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c8c94102-0791-4f18-b64f-2d3e1e104518")
+	)
+	(fp_line
+		(start -2.11 1.65)
+		(end -2.11 -14.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "63ebd0b3-cc32-4ec8-8840-564506c145ad")
+	)
+	(fp_line
+		(start 19.89 -14.35)
+		(end 19.89 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dd7ee17b-1cf3-4ddb-b396-b215482c3637")
+	)
+	(fp_line
+		(start 19.89 1.65)
+		(end -2.11 1.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8d68efca-f1ce-4311-bb47-c4ec5b0b3ebe")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 8.89 -6.44 0)
+		(layer "F.Fab")
+		(uuid "5257803e-b754-4ecf-b25c-c224f9a119c8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "baae11f6-7937-4f50-a312-23e6fc5356e6")
+	)
+	(pad "2" thru_hole circle
+		(at 17.78 0)
+		(size 1.4 1.4)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "47fec879-c80c-4f12-af44-25969ddfd13a")
+	)
+	(pad "3" thru_hole circle
+		(at 10.16 -12.7)
+		(size 3.36 3.36)
+		(drill 2.24)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b34174d8-6d44-467c-915b-33d7828f8270")
+	)
+	(pad "4" thru_hole circle
+		(at 0 -12.7)
+		(size 3.36 3.36)
+		(drill 2.24)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3dcea8fb-2c15-46fe-be30-1f030198a80e")
+	)
+	(embedded_fonts no)
+	(model "/home/juanjo/Prodoelec-Kicad/kicad-packages3D/Relay_Panasonic_JVN1A5VF.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

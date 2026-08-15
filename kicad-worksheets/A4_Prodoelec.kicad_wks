@@ -1,0 +1,449 @@
+(kicad_wks
+	(version 20231118)
+	(generator "pl_editor")
+	(generator_version "8.0")
+	(setup
+		(textsize 1.5 1.5)
+		(linewidth 0.15)
+		(textlinewidth 0.15)
+		(left_margin 10)
+		(right_margin 10)
+		(top_margin 10)
+		(bottom_margin 10)
+	)
+	(rect
+		(name "rect1:Rect")
+		(start -5 -5 ltcorner)
+		(end -5 -5)
+		(linewidth 0.35)
+	)
+	(rect
+		(name "rect2:Rect")
+		(start 0 0 ltcorner)
+		(end 0 0)
+		(linewidth 0.7)
+	)
+	(line
+		(name "segm1:Line")
+		(start 128.5 -5 ltcorner)
+		(end 128.5 0 ltcorner)
+		(linewidth 1.05)
+	)
+	(line
+		(name "segm2:Line")
+		(start 128.5 -5 lbcorner)
+		(end 128.5 0 lbcorner)
+		(linewidth 1.05)
+	)
+	(line
+		(name "segm3:Line")
+		(start -5 95 ltcorner)
+		(end 0 95 ltcorner)
+		(linewidth 1.05)
+	)
+	(line
+		(name "segm4:Line")
+		(start -5 95 rtcorner)
+		(end 0 95 rtcorner)
+		(linewidth 1.05)
+	)
+	(line
+		(name "segm5:Line")
+		(start 28.5 -5 ltcorner)
+		(end 28.5 0 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm6:Line")
+		(start 78.5 -5 ltcorner)
+		(end 78.5 0 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm7:Line")
+		(start 128.5 -5 ltcorner)
+		(end 128.5 0 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm8:Line")
+		(start 178.5 -5 ltcorner)
+		(end 178.5 0 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm9:Line")
+		(start 228.5 -5 ltcorner)
+		(end 228.5 0 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm10:Line")
+		(start 28.5 -5 lbcorner)
+		(end 28.5 0 lbcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm11:Line")
+		(start 78.5 -5 lbcorner)
+		(end 78.5 0 lbcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm12:Line")
+		(start 128.5 -5 lbcorner)
+		(end 128.5 0 lbcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm13:Line")
+		(start 178.5 -5 lbcorner)
+		(end 178.5 0 lbcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm14:Line")
+		(start 228.5 -5 lbcorner)
+		(end 228.5 0 lbcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm15:Line")
+		(start -5 45 ltcorner)
+		(end 0 45 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm16:Line")
+		(start -5 95 ltcorner)
+		(end 0 95 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm17:Line")
+		(start -5 145 ltcorner)
+		(end 0 145 ltcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm18:Line")
+		(start -5 45 rtcorner)
+		(end 0 45 rtcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm19:Line")
+		(start -5 95 rtcorner)
+		(end 0 95 rtcorner)
+		(linewidth 0.35)
+	)
+	(line
+		(name "segm20:Line")
+		(start -5 145 rtcorner)
+		(end 0 145 rtcorner)
+		(linewidth 0.35)
+	)
+	(tbtext "1"
+		(name "text1:Text")
+		(pos 3.5 -2.5 ltcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "2"
+		(name "text2:Text")
+		(pos 53.5 -2.5 ltcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "3"
+		(name "text3:Text")
+		(pos 103.5 -2.5 ltcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "4"
+		(name "text4:Text")
+		(pos 153.5 -2.5 ltcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "5"
+		(name "text5:Text")
+		(pos 203.5 -2.5 ltcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "6"
+		(name "text6:Text")
+		(pos 253.5 -2.5 ltcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "A"
+		(name "text7:Text")
+		(pos -2.5 20 rtcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "B"
+		(name "text8:Text")
+		(pos -2.5 70 rtcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "C"
+		(name "text9:Text")
+		(pos -2.5 120 rtcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(tbtext "D"
+		(name "text10:Text")
+		(pos -2.5 170 rtcorner)
+		(font
+			(linewidth 0.35)
+			(size 3.5 3.5)
+		)
+		(justify center)
+	)
+	(line
+		(name "")
+		(start 53 18)
+		(end 53 3.002)
+		(linewidth 0.4)
+	)
+	(line
+		(name "")
+		(start 142 3)
+		(end 0.033 3)
+		(linewidth 0.2)
+	)
+	(line
+		(name "")
+		(start 142 18)
+		(end -0.011 18)
+		(linewidth 0.5)
+	)
+	(line
+		(name "")
+		(start 142 18)
+		(end 142 0.002)
+		(linewidth 0.5)
+	)
+	(line
+		(name "")
+		(start 141.989 6)
+		(end 53 6)
+	)
+	(line
+		(name "")
+		(start 53.489 36.5022)
+		(end 53.489 36.5022)
+	)
+	(line
+		(name "")
+		(start 94 12)
+		(end 94 0.002)
+		(linewidth 0.2)
+	)
+	(line
+		(name "")
+		(start 47 3.002)
+		(end 47 0.002)
+	)
+	(line
+		(name "")
+		(start 141.989 12)
+		(end 53 12)
+		(linewidth 0.2)
+	)
+	(tbtext "Título:"
+		(name "")
+		(pos 141 14.502)
+		(font
+			(face "Arial")
+			(size 2.5 2.5)
+		)
+	)
+	(tbtext "NºSerie:"
+		(name "")
+		(pos 141 9)
+		(font
+			(face "Arial")
+			(size 2 2)
+		)
+	)
+	(tbtext "Fecha:"
+		(name "")
+		(pos 141 4.5)
+		(font
+			(face "Arial")
+			(size 1.5 1.5)
+		)
+	)
+	(tbtext "Versión:"
+		(name "")
+		(pos 93 8.5)
+		(font
+			(face "Arial")
+			(size 2 2)
+		)
+	)
+	(tbtext "Página: "
+		(name "")
+		(pos 93 4.5)
+		(font
+			(face "Arial")
+			(size 1.5 1.5)
+		)
+	)
+	(tbtext "Fichero:"
+		(name "")
+		(pos 141 1.5)
+		(font
+			(face "Arial")
+			(size 1.5 1.5)
+		)
+	)
+	(tbtext "Autor:"
+		(name "")
+		(pos 93 1.502)
+		(font
+			(face "Arial")
+			(size 1.5 1.5)
+		)
+	)
+	(tbtext "Rev Autor:"
+		(name "")
+		(pos 45.989 1.5022)
+		(font
+			(face "Arial")
+			(size 1.5 1.5)
+		)
+	)
+	(tbtext "${TITLE}"
+		(name "")
+		(pos 129.989 14.502)
+		(font
+			(face "Arial")
+			(size 3 3) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${REVISION}"
+		(name "")
+		(pos 81.989 8.5)
+		(font
+			(face "Arial")
+			(size 2 2) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${COMMENT1}"
+		(name "")
+		(pos 129.489 9)
+		(font
+			(face "Arial")
+			(size 2 2) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${FILENAME}"
+		(name "")
+		(pos 132.489 1.5)
+		(font
+			(face "Arial")
+			(size 1.5 1.5) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${CURRENT_DATE}"
+		(name "")
+		(pos 133.489 4.5)
+		(font
+			(face "Arial")
+			(size 1.5 1.5) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${#}"
+		(name "")
+		(pos 82.989 4.4)
+		(font
+			(face "Arial")
+			(size 1.8 1.8) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${COMMENT2}"
+		(name "")
+		(pos 86.989 1.502)
+		(font
+			(face "Arial")
+			(size 1.5 1.5) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${COMMENT3}"
+		(name "")
+		(pos 34.989 1.502)
+		(font
+			(face "Arial")
+			(size 1.5 1.5) bold
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "${COMPANY}"
+		(name "")
+		(pos 50.489 13.002)
+		(font
+			(face "Arial")
+			(size 2.5 2.5) bold italic
+			(color 0 0 132 1)
+		)
+	)
+	(tbtext "de"
+		(name "")
+		(pos 79.989 4.5)
+		(font
+			(face "Arial")
+			(size 1.5 1.5)
+		)
+	)
+	(tbtext "${##}"
+		(name "")
+		(pos 76.489 4.4)
+		(font
+			(face "Arial")
+			(size 1.8 1.8) bold
+			(color 0 0 132 1)
+		)
+	)
+)
